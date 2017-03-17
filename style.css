@@ -1,16 +1,63 @@
-
-.box {
-  width: 100px;
+ #firstparagraph{
+   background-color:blue;
+   font:white;
+ }
+ #secondparagraph{
+   font-family: cursive;
+ }
+body {
+   background-image: url("https://pbs.twimg.com/media/CdCLAAsWoAEEP16.jpg");
+ }
+ #fourthparagraph {
+   float: right;
+ }   
+#sixthparagraph {
+  color: white;
+  font-family: cursive
+}
+#seventhparagraph{ 
+  background-color: blue; 
+  float:right;
+}
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ }
+ .evennumbers {
+   color: #891464;
+ }
+ box {
+   width: 100px;
   height: 100px;
   display: inline-block;
 }
 
 #one {
-  background-color: red;
+  background-color: blue;
 }
 
-#two {
-  background-color: blue;
+#two {background-color: blue 
+  background-color: red;
 }
 
 #three {
